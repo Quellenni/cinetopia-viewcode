@@ -81,7 +81,7 @@ class FavoriteMovieCollectionViewCell: UICollectionViewCell {
         movieTitleLabel.text = movie.title
     }
     
-    //MARK: -IBAction
+    //MARK: - IBAction
     
     @objc
     func didTapFavoriteButton(_ sender: UIButton) {
